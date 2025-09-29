@@ -4,7 +4,7 @@ A cross-platform Flutter mobile app for food enthusiasts to discover, join, and 
 
 ## 🚀 Features
 
-- **Google Sign-In Authentication** - Secure login with Firebase Auth
+- **Email & password Authentication** - Secure login with Firebase Auth
 - **Event Discovery** - Browse food events with beautiful cards
 - **Event Details** - View comprehensive event information
 - **RSVP System** - Join events and track attendance
