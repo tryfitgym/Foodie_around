@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>799882840911-kkmh78eakekpmddeasssu3b13shbf6jt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.799882840911-kkmh78eakekpmddeasssu3b13shbf6jt</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>799882840911-vmjt258vtcvg5bfdfo0f6qtdg3untr6j.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCQx7jybIUFMqvcAOyRe7ze7SU_yoIH8GI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>799882840911</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.biteUpCommunity</string>
+	<key>PROJECT_ID</key>
+	<string>foodie-meetups</string>
+	<key>STORAGE_BUCKET</key>
+	<string>foodie-meetups.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:799882840911:ios:8e578f15b97b94f82f933a</string>
+	<key>DATABASE_URL</key>
+	<string>https://foodie-meetups-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
